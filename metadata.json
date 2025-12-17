@@ -1,0 +1,5 @@
+{
+  "name": "Cinematic Scene Agent",
+  "description": "A specialized agent for inferring cinematic empty scenes from scripts and generating visual prompts.",
+  "requestFramePermissions": []
+}
